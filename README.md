@@ -1,7 +1,3 @@
-Here’s a **clean and ready-to-use README.md** for your BiryaniGPT project. It keeps things **concise, clear, and useful.** 🚀  
-
----
-
 ## 🍛 BiryaniGPT  
 ### *Spicing Up Conversations, One Byte at a Time!*  
 
