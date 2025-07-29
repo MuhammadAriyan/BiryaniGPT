@@ -1,5 +1,5 @@
 ## 🍛 BiryaniGPT  
-### *Spicing Up Conversations,One Byte at a Time!*  
+### *Spicing Up Conversations,-One Byte at a Time!*  
 
 BiryaniGPT is a fun and interactive AI assistant designed to chat with users while adding a little kitchen magic!🧑‍🍳✨  
 
