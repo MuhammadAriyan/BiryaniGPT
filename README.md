@@ -25,7 +25,6 @@ cd BiryaniGPT
 ```bash
 pip install -r requirements.txt
 ```
-Important
 3️⃣ **Set Up Environment Variables**  
 Create a `.env` file and add:  
 ```
