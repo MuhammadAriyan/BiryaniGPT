@@ -48,6 +48,7 @@ Modify this line in `app.py`:
 st.set_page_config(page_icon='🍕')  # Change emoji/icon
 ```
 
+
 🔹 **Add More Emojis**  
 Update the `randomEmoji()` function:  
 ```python
